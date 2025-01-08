@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
     siteMetadata: {
-        title: 'Stan Fortoński',
+        title: 'Stanisław Fortoński',
         description: 'site.description',
         author: 'Stanisław Fortoński',
         siteUrl: 'https://stanfortonski.dev',
@@ -59,7 +59,7 @@ module.exports = {
         {
             resolve: 'gatsby-plugin-manifest',
             options: {
-                name: 'Stan Fortoński',
+                name: 'Stanisław Fortoński',
                 short_name: 'stanfortonski.dev',
                 start_url: '/',
                 background_color: '#203748',

@@ -37,7 +37,7 @@ export const PageLayout = ({ children, locale, showHeader }: PageLayoutProps) =>
         <App locale={locale}>
             {showHeader && (
                 <Header
-                    siteTitle={data.site.siteMetadata?.title || `Stan Fortoński`}
+                    siteTitle={data.site.siteMetadata?.title || `Stanisław Fortoński`}
                     isAnimate={true}
                 />
             )}

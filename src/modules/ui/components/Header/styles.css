@@ -4,7 +4,7 @@
     @apply bg-primary-proper text-center lg:h-52 md:h-48 h-40 flex items-center justify-center;
 
     h1 {
-        @apply neon-green lg:text-8xl md:text-7xl sm:text-6xl text-5xl;
+        @apply neon-green lg:text-7xl md:text-6xl sm:text-5xl text-4xl;
 
         text-shadow: none;
         color: rgba(0, 0, 0, 0.4);

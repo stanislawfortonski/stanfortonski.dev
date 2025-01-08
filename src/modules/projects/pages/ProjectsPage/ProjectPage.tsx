@@ -58,7 +58,7 @@ export const ProjectsPage = ({ locale }: AppContextType) => {
                 </p>
                 <a
                     className="button button--chars-and-shadows button--secondary mb-10"
-                    href="https://github.com/stanfortonski?tab=repositories"
+                    href="https://github.com/stanislawfortonski?tab=repositories"
                 >
                     <FormattedMessage id="projects.rest-projects.button" />
                 </a>

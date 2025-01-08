@@ -38,7 +38,7 @@ export const ProjectsSection = () => {
                             <div className="modal__button-placement">
                                 <div>
                                     <a
-                                        href="https://github.com/stanfortonski/StickMan-3D"
+                                        href="https://github.com/stanislawfortonski/StickMan-3D"
                                         className="button button--secondary button--chars-and-shadows mb-5"
                                         target="_blank"
                                         rel="noreferrer noopener"
@@ -51,7 +51,7 @@ export const ProjectsSection = () => {
                                 <FormattedMessage id="index.projects.stickman-description" />
                                 <a
                                     className="anr no-text-shadow"
-                                    href="https://stan-fortonski.itch.io/stickman-3d-first-round"
+                                    href="https://stanislaw-fortonski.itch.io/stickman-3d-first-round"
                                     target="_blank"
                                     rel="noreferrer noopener"
                                 >
@@ -65,7 +65,7 @@ export const ProjectsSection = () => {
                         <Frame className="modal--project" title="Room Viewer WebGL">
                             {runWebGLApp ? (
                                 <iframe
-                                    src="https://stanfortonski.github.io/examples/webgl-room"
+                                    src="https://stanislawfortonski.github.io/examples/webgl-room"
                                     className="modal__bg"
                                     title="Room Viewer WebGL"
                                 ></iframe>
@@ -101,7 +101,7 @@ export const ProjectsSection = () => {
                             <div className="modal__button-placement">
                                 <div>
                                     <a
-                                        href="https://github.com/stanfortonski/Procedural-Terrain-Generator-OpenGL"
+                                        href="https://github.com/stanislawfortonski/Procedural-Terrain-Generator-OpenGL"
                                         className="button button--secondary button--chars-and-shadows mb-5"
                                         target="_blank"
                                         rel="noreferrer"

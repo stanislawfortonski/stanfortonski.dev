@@ -1,6 +1,6 @@
 # stanfortonski.dev
 
-## Stan Fortoński - website repository
+## Stanisław Fortoński - website repository
 
 ### Build with
 

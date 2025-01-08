@@ -86,7 +86,7 @@ export const NavMenu = ({ toggleMenu }: NavMenuProps) => {
                             <li>
                                 <a
                                     className="button button--primary button--chars-and-shadows w-full mb-5"
-                                    href="https://github.com/stanfortonski"
+                                    href="https://github.com/stanislawfortonski"
                                 >
                                     <FormattedMessage id="global.my-gitHub" />
                                 </a>

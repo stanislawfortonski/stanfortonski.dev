@@ -46,39 +46,19 @@ export const ContactPage = ({ locale }: AppContextType) => {
                             </li>
                             <li>
                                 <a
-                                    href="https://youtube.com/c/StanFortonskiDeveloper"
-                                    className="anr"
-                                >
-                                    Youtube
-                                </a>
-                                <a
-                                    href="https://facebook.com/Stan-Fortoński-Developer-112846750060899"
-                                    className="anr"
-                                >
-                                    Facebook
-                                </a>
-                                <a href="https://twitter.com/fortonski" className="anr">
-                                    Twitter
-                                </a>
-                                <a href="https://instagram.com/stan.fortonski" className="anr">
-                                    Instagram
-                                </a>
-                            </li>
-                            <li>
-                                <a
-                                    href="https://www.linkedin.com/in/stan-fortonski"
+                                    href="https://www.linkedin.com/in/stanislaw-fortonski"
                                     className="anr"
                                 >
                                     LinkedIn
                                 </a>
-                                <a href="https://github.com/stanfortonski" className="anr">
+                                <a href="https://github.com/stanislawfortonski" className="anr">
                                     GitHub
                                 </a>
                                 <a
-                                    href="https://stackoverflow.com/story/stan.fortonski"
+                                    href="https://www.youtube.com/@StanislawFortonski"
                                     className="anr"
                                 >
-                                    Stack Overflow
+                                    Youtube
                                 </a>
                             </li>
                         </ul>
